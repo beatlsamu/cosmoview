@@ -1,0 +1,6 @@
+{
+  "name": "CosmoView",
+  "description": "Una galería inmersiva del espacio profundo con imágenes satelitales en tiempo real de la NASA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
